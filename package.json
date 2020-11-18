@@ -8,7 +8,11 @@
   "dependencies": {
     "core-js": "^3.7.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Svetlana-Arkhipova/ajs-11-task1-2.git"
